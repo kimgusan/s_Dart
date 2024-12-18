@@ -161,7 +161,7 @@
 
 ## Function
 
--   void 는 return 하지 않고 실행되는 함수
+-   **void 는 return 하지 않고 실행되는 함수**
 
 >
 
