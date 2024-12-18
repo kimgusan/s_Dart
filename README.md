@@ -448,7 +448,8 @@ var playerInfo = Player(name: "nico", age: 17, description: "Happy code is end c
 -   enum은 우리가 실수하지 않도록 도와주는 타입이다.
 -   dart에서 enum type을 만드는 법은 다음과 같다
 
-```dart
+```
+dart
 enum Team {
 red,
 blue,
